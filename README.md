@@ -1,1 +1,1 @@
-<img src="game" alt="text" width="50%" height="auto">
+<img src="Game.png" alt="text" width="50%" height="auto">
